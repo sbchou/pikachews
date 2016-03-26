@@ -17,7 +17,7 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
-paginate: 1
+paginate: 3
 paginator_path: "/pikachews/page:num" 
 gems: [jekyll-paginate]
 # Build settings
